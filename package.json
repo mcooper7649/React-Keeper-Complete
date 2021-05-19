@@ -1,7 +1,6 @@
 {
-  "name": "react-keeper-complete",
+  "name": "react-keeper-clone",
   "version": "1.0.0",
-  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -26,5 +25,12 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/mcooper7649/ArbitrumAI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "react keeper clone"
 }
